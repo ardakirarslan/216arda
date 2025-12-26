@@ -1,6 +1,6 @@
 # 216arda
 ✨ Özellikler
-Üye Kaydı:Kullanıcıdan isim ve soyisim ve TC no bilgilerini alarak kayıt oluşturur.
+\nÜye Kaydı:Kullanıcıdan isim ve soyisim ve TC no bilgilerini alarak kayıt oluşturur.
 Bakiye Yönetimi:Kullanıcı Bakiyesini her değişiklikten sonra güncel olarak takip edebilir ve yükleme yapabilir
 Rezervasyon:Kullanıcılar bakiyelerini sorgulayabilir, yükleme yapabilir ve harcamalarını takip edebilir.
 Bütçeye Uygun Oda Arama:Mevcut bakiyeye göre kalınabilecek odaları otomatik olarak listeler.
